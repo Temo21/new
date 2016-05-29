@@ -1,0 +1,39 @@
+.top_menu {
+	margin: 0;
+	padding: 0;
+	background: #222;
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.left_cont {
+	margin-left: 30px;
+	width: 970px;
+	padding: 15px 0px;
+}
+
+.left_cont a {
+	color: #FFF;
+	padding: 0 15px 0 0;
+	display: inline-block;
+	font-size: 14px;
+}
+
+.left_cont a:hover {
+	color: #FF0000;
+}
+
+.right_cont {
+	display: inline-block;
+	float: right;
+	width: 170px;
+}
+
+.right_cont form input{
+	background: #eb005d;
+	border: 0;
+	color: #FFF;
+}	
